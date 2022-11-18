@@ -21,7 +21,7 @@
 
 ### 5. Explain and give an example of inheritance
 
-> The inheritance function gives one class the characteristics and methods of another class. The child class, or the derived class, gains the characteristics. Super-class is the data sending the characteristics. The reason for inheritance is to create and maintain apps and deliver code reusability. Python supports three types of inheritance. One is the single inheritance where a derived class obtains a single superclass. The second Python inheritance is multi faceted where data can inherit a derived class from another. Finally, the multiple inheritance means that a child class receives all the methods and attributes from one or more base, or parent, classes.
+> The inheritance function gives one class the characteristics and methods of another class. The child class, or the derived class, gains the characteristics. Super-class is the one, sending the characteristics. The purpose of inheritance is to create and maintain apps and deliver code reusability. Python supports three types of inheritance. One is the single inheritance where a derived class obtains a single superclass. The second Python inheritance is multi faceted where data can inherit a derived class from another. Finally, the multiple inheritance means that a child class receives all the methods and attributes from one or more base, or parent, classes.
 
 
 ### 6. What are arrays in Python?
